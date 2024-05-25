@@ -1,0 +1,3 @@
+buildozer appclean
+~/.buildozer
+buildozer android debug
